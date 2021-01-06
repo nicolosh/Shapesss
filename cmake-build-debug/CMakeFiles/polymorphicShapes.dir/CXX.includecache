@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/nicol/OneDrive/Desktop/C++/polymorphicShapes/include/shapesss.h
+string
+-
+iostream
+-
+
+/cygdrive/c/Users/nicol/OneDrive/Desktop/C++/polymorphicShapes/main.cpp
+iostream
+-
+include/shapesss.h
+/cygdrive/c/Users/nicol/OneDrive/Desktop/C++/polymorphicShapes/include/shapesss.h
+
